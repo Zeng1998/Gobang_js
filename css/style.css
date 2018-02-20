@@ -3,18 +3,3 @@ canvas{
     margin:50px auto;
     box-shadow: -2px -2px 2px #EFEFEF, 5px 5px 5px #B9B9B9;
 }
-button{
-    background-color: brown;
-    width:200px;
-    height:80px;
-    margin:30px 620px;
-    border: none;
-    color: white;
-    font-family:Arial;
-    padding: 10px 24px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 18px;
-    cursor: pointer;
-}
